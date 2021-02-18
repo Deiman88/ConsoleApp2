@@ -1,0 +1,3 @@
+[submodule "HUtils"]
+	path = HUtils
+	url = https://github.com/Deiman88/HUtils.git
